@@ -16,7 +16,14 @@ I value clean structure, performance, and control in everything I build.
 ### 🧑‍💻 Tech I Work With
 Lua • QBCore/QBX • ox_lib • SQL (MariaDB/MySQL) • JS/TS • React • HTML/CSS
 
-<a href="https://www.buymeacoffee.com/roguemunition"><img src="https://img.buymeacoffee.com/button-api/?text=Buy me a coffee&emoji=☕&slug=roguemunition&button_colour=00c4c2&font_colour=000000&font_family=Comic&outline_colour=000000&coffee_colour=FFDD00" /></a>
+
+<a href="https://www.buymeacoffee.com/YOURUSERNAME" target="_blank">
+  <img
+    src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png"
+    alt="Buy Me A Coffee"
+    height="40"
+  />
+</a>
 
 <!--
 **Rogue38/Rogue38** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
