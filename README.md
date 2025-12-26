@@ -17,7 +17,7 @@ I value clean structure, performance, and control in everything I build.
 Lua • QBCore/QBX • ox_lib • SQL (MariaDB/MySQL) • JS/TS • React • HTML/CSS
 
 
-<a href="https://www.buymeacoffee.com/YOURUSERNAME" target="_blank">
+<a href="https://www.buymeacoffee.com/roguemunition" target="_blank">
   <img
     src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png"
     alt="Buy Me A Coffee"
